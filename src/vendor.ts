@@ -1,0 +1,19 @@
+import 'assets/js/common.min.js';
+import 'assets/js/altair_admin_common.min.js';
+import 'assets/js/uikit_custom.min.js';
+import 'bower_components/d3/d3.min.js';
+import 'bower_components/metrics-graphics/dist/metricsgraphics.min.js';
+import 'assets/js/pages/page_mailbox.min.js';
+import 'bower_components/chartist/dist/chartist.min.js';
+import 'bower_components/maplace-js/dist/maplace.min.js';
+import 'bower_components/peity/jquery.peity.min.js';
+import 'bower_components/jquery.easy-pie-chart/dist/jquery.easypiechart.min.js';
+import 'bower_components/countUp.js/dist/countUp.min.js';
+import 'bower_components/handlebars/handlebars.min.js';
+import 'assets/js/custom/handlebars_helpers.min.js';
+import 'bower_components/clndr/clndr.min.js';
+import 'assets/js/pages/dashboard.min.js';
+import 'assets/js/common.min.js';
+import 'assets/js/pages/page_mailbox.min.js';
+import 'cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js';
+
